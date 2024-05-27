@@ -26,14 +26,14 @@ I am a passionate Full-Stack JavaScript Developer with extensive experience in b
 - **Docker** | **Kubernetes**
 - **Azure DevOps** | **Microsoft Azure**
 
-### Others
-- **Agile/Scrum Methodologies**
-- **Problem Solving and Creativity**
-- **Manual Testing**
+### Personal Traits
+- Problem Solver: Enjoy finding solutions to challenges.
+- Team Player: Work collaboratively and effectively with others.
+- Adaptable: Quickly learn new technologies and methods.
+
+## 📫 How to reach me
+- LinkedIn: [Milad Jokar](https://www.linkedin.com/in/milad-jokar-647839212/)
 
 ## 📈 GitHub Stats
 
 ![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=milad-hub&show_icons=true&theme=radical)
-
-## 📫 How to reach me
-- LinkedIn: [Milad Jokar](https://www.linkedin.com/in/milad-jokar-647839212/)
