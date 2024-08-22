@@ -1,12 +1,12 @@
-# Hi there 👋, I'm Milad Jokar
+# Hello there 👋, I'm Milad Jokar
 
-I am a passionate Full-Stack JavaScript Developer with extensive experience in both front-end and back-end development. I enjoy creating web applications that are user-friendly and performant.
+An enthusiastic Full-Stack JavaScript Developer with great experience in both Frontend and Backend development, who likes crafting web applications with excellent performance and usability in mind.
 
 ## 🌟 About Me
-- 🔭 I’m currently working on several exciting projects using **Angular**, **NodeJS**, and **React Native**.
-- 🌱 I’m constantly learning and staying up-to-date with the latest industry trends.
-- 🛠️ I have a good foundation in **Agile Methodologies**, **Software Principles**, and **Continuous Integration and Continuous Delivery (CI/CD)**.
-- ⚡ I love solving problems and finding creative solutions to challenges.
+- 🔭 I am currently working on some cool projects with **Angular**, **NodeJS**, and **React Native**.
+- 🌱 I am always learning and keeping abreast of the latest technologies used in the industry.
+- 🛠️ I have a good base in **Agile Methodologies**, **Software Principles**, and **Continuous Integration and Continuous Delivery (CI/CD)**.
+- ⚡ Problem-solver with the knack for improvisation to find the best of expressive solutions to any challenge thrown in my way.
 
 ## 🚀 Skills
 
@@ -27,9 +27,9 @@ I am a passionate Full-Stack JavaScript Developer with extensive experience in b
 - **Azure DevOps** | **Microsoft Azure**
 
 ### Personal Traits
-- Problem Solver: Enjoy finding solutions to challenges.
-- Team Player: Work collaboratively and effectively with others.
-- Adaptable: Quickly learn new technologies and methods.
+- Problem Solver: Get a kick out of finding your way around challenges.
+- Team Player: Excellent collaborator and can work in cohesion for the best results.
+- Adaptive: Always quickly learned new technologies and methods.
 
 ## 📫 How to reach me
 - LinkedIn: [Milad Jokar](https://www.linkedin.com/in/milad-jokar-647839212/)
