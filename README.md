@@ -8,6 +8,9 @@ An enthusiastic Full-Stack JavaScript Developer with great experience in both Fr
 - 🛠️ I have a good base in **Agile Methodologies**, **Software Principles**, and **Continuous Integration and Continuous Delivery (CI/CD)**.
 - ⚡ Problem-solver with the knack for improvisation to find the best of expressive solutions to any challenge thrown in my way.
 
+## 💼 Professional Experience
+I have participated in many varied projects from designing front-end interfaces using Angular to contributing to enterprise solutions. My typical job comprises the need to translate complex business requirements into effective technical solutions, especially within enterprises.
+
 ## 🚀 Skills
 
 ### Languages
