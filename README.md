@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Milad Jokar
+# Hello, I'm Milad Jokar
 
 An enthusiastic Full-Stack JavaScript Developer with great experience in both Frontend and Backend development, who likes crafting web applications with excellent performance and usability in mind.
 
