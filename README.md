@@ -1,42 +1,60 @@
-# Hello, I'm Milad Jokar
+# Hello, I'm Milad Jokar  
+**Experienced Angular Developer**
 
-An enthusiastic Full-Stack JavaScript Developer with great experience in both Frontend and Backend development, who likes crafting web applications with excellent performance and usability in mind.
+I am a seasoned Angular developer with a proven track record of delivering robust, scalable, and high-performance web applications for large-scale enterprise environments. My primary focus is on crafting efficient front-end solutions using Angular, while also leveraging my solid understanding of Node.js for backend integrations when needed.
 
-## 🌟 About Me
-- 🔭 I am currently working on some cool projects with **Angular**, **NodeJS**, and **React Native**.
-- 🌱 I am always learning and keeping abreast of the latest technologies used in the industry.
-- 🛠️ I have a good base in **Agile Methodologies**, **Software Principles**, and **Continuous Integration and Continuous Delivery (CI/CD)**.
-- ⚡ Problem-solver with the knack for improvisation to find the best of expressive solutions to any challenge thrown in my way.
+With several years of hands-on experience, I specialize in translating complex business requirements into elegant technical solutions. My expertise spans the entire software development lifecycle, from design and implementation to deployment and maintenance.
 
-## 💼 Professional Experience
-I have participated in many varied projects from designing front-end interfaces using Angular to contributing to enterprise solutions. My typical job comprises the need to translate complex business requirements into effective technical solutions, especially within enterprises.
+---
 
-## 🚀 Skills
+## About Me  
+- **Primary Focus:** Building enterprise-grade applications using **Angular**.  
+- **Current Work:** Developing cutting-edge solutions with **Angular**, **Node.js**, and modern DevOps practices.  
+- **Continuous Learning:** Always staying updated with the latest trends in frontend development, performance optimization, and emerging technologies.  
+- **Problem Solver:** Skilled at tackling challenges with creative, efficient, and maintainable solutions.  
 
-### Languages
-- **JavaScript** | **TypeScript** | **HTML/CSS**
+---
 
-### Front-End
-- **Angular** | **React Native**
+## Professional Experience  
+As an experienced Angular developer, I have contributed to numerous enterprise-level projects, ranging from designing responsive user interfaces to implementing seamless integrations with backend systems. My work involves:  
+- Building scalable Angular applications with modular architecture and reusable components.  
+- Collaborating closely with cross-functional teams to deliver high-quality software on time.  
+- Implementing CI/CD pipelines and automation tools to streamline development processes.  
+- Ensuring optimal performance through code optimization, lazy loading, and caching strategies.  
 
-### Back-End
-- **NodeJS** | **ExpressJS**
-- **SQL** (SQLite, PostgreSQL, Microsoft SQL Server)
-- **NoSQL** (MongoDB)
+---
 
-### DevOps and Tools
-- **Git** | **GitHub**
-- **Docker** | **Kubernetes**
-- **Azure DevOps** | **Microsoft Azure**
+## Skills  
 
-### Personal Traits
-- Problem Solver: Get a kick out of finding your way around challenges.
-- Team Player: Excellent collaborator and can work in cohesion for the best results.
-- Adaptive: Always quickly learned new technologies and methods.
+### Front-End Development  
+- **Angular (Core Expertise)**  
+- TypeScript | HTML5 | CSS3 | SCSS  
+- State Management (NgRx, RxJS, Signal)  
+- Responsive Design & Accessibility Standards  
 
-## 📫 How to reach me
-- LinkedIn: [Milad Jokar](https://www.linkedin.com/in/milad-jokar-647839212/)
+### Back-End Development  
+- Node.js | Express.js  
+- Database Management: SQL (PostgreSQL, MySQL) | NoSQL (MongoDB)  
 
-## 📈 GitHub Stats
+### DevOps & Tools  
+- Git | GitHub Actions  
+- Docker | Kubernetes  
+- Azure DevOps | Microsoft Azure  
+- CI/CD Pipelines  
 
+### Soft Skills  
+- Strong communicator and team player.  
+- Quick learner with a passion for innovation.  
+- Detail-oriented with a focus on quality and efficiency.  
+
+---
+
+## How to Reach Me  
+Let's connect! Feel free to reach out if you'd like to collaborate or discuss opportunities.  
+- **LinkedIn:** [Milad Jokar](https://www.linkedin.com/in/milad-jokar-647839212/)  
+- **X:** [Milad445](https://x.com/Milad445)
+
+---
+
+## GitHub Stats  
 ![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=milad-hub&show_icons=true&theme=radical)
