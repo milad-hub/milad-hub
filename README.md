@@ -1,4 +1,4 @@
-# Hello, I'm Milad Jokar  
+# I'm Milad Jokar  
 **Experienced Angular Developer**
 
 I am a seasoned Angular developer with a proven track record of delivering robust, scalable, and high-performance web applications for large-scale enterprise environments. My primary focus is on crafting efficient front-end solutions using Angular, while also leveraging my solid understanding of Node.js for backend integrations when needed.
@@ -50,7 +50,6 @@ As an experienced Angular developer, I have contributed to numerous enterprise-l
 ---
 
 ## How to Reach Me  
-Let's connect! Feel free to reach out if you'd like to collaborate or discuss opportunities.  
 - **LinkedIn:** [Milad Jokar](https://www.linkedin.com/in/milad-jokar-647839212/)  
 - **X:** [Milad445](https://x.com/Milad445)
 
