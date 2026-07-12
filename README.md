@@ -37,38 +37,32 @@ A Visual Studio Code extension for detecting and managing deprecated APIs and de
 
 # Areas of Focus
 
-* Enterprise Angular Applications
-* Workflow-Driven Systems
-* Frontend Architecture
-* Reusable UI Components
-* Angular Signals
-* State Management
-* Performance Optimisation
-* Developer Experience (DX)
-* Developer Tooling
-* AI-Assisted Software Engineering
-* Agentic Development Workflows
+- Enterprise Angular Applications
+- Workflow & Business Process Systems
+- Frontend Architecture
+- Angular Signals & State Management
+- Developer Tooling & Developer Experience (DX)
+- AI-Assisted Software Engineering
+- Open Source
 
 ---
 
 # AI Engineering
 
-AI is an integral part of my daily engineering workflow.
+AI is an integral part of my engineering workflow.
 
-I use modern AI tools to accelerate software development while maintaining high standards of code quality, maintainability, and software design.
+I use modern AI tools to accelerate software development while maintaining high standards of software quality, maintainability, and architecture.
 
 Typical use cases include:
 
-* Agentic coding workflows
-* AI-assisted software design
-* Architecture exploration
-* Prompt engineering
-* Documentation generation
-* Test generation
-* Code review assistance
-* Refactoring support
-* Technical research
-* Open-source development
+- Agentic development workflows
+- Software architecture exploration
+- Code generation
+- Test generation
+- Refactoring assistance
+- Documentation generation
+- Technical research
+- Code review support
 
 ---
 
