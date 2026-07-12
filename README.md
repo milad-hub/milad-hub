@@ -1,59 +1,106 @@
-# I'm Milad Jokar  
-**Experienced Angular Developer**
+# Hi, I'm Milad Jokar
 
-I am a seasoned Angular developer with a proven track record of delivering robust, scalable, and high-performance web applications for large-scale enterprise environments. My primary focus is on crafting efficient front-end solutions using Angular, while also leveraging my solid understanding of Node.js for backend integrations when needed.
+**Enterprise-focused Angular Developer building scalable applications, developer tools, and AI-assisted engineering workflows.**
 
-With several years of hands-on experience, I specialize in translating complex business requirements into elegant technical solutions. My expertise spans the entire software development lifecycle, from design and implementation to deployment and maintenance.
+I build maintainable, scalable, and high-performance Angular applications for complex business environments.
 
----
+My interests span enterprise frontend architecture, workflow-driven systems, reusable component design, developer productivity, and modern AI-assisted software engineering.
 
-## About Me  
-- **Primary Focus:** Building enterprise-grade applications using **Angular**.  
-- **Current Work:** Developing cutting-edge solutions with **Angular**, **Node.js**, and modern DevOps practices.  
-- **Continuous Learning:** Always staying updated with the latest trends in frontend development, performance optimization, and emerging technologies.  
-- **Problem Solver:** Skilled at tackling challenges with creative, efficient, and maintainable solutions.  
+I enjoy building open-source tools that solve real engineering problems and improve the developer experience.
 
 ---
 
-## Professional Experience  
-As an experienced Angular developer, I have contributed to numerous enterprise-level projects, ranging from designing responsive user interfaces to implementing seamless integrations with backend systems. My work involves:  
-- Building scalable Angular applications with modular architecture and reusable components.  
-- Collaborating closely with cross-functional teams to deliver high-quality software on time.  
-- Implementing CI/CD pipelines and automation tools to streamline development processes.  
-- Ensuring optimal performance through code optimization, lazy loading, and caching strategies.  
+# Featured Projects
+
+## ngx-signal-plus
+
+A lightweight Angular library that extends native Angular Signals with practical utilities for real-world applications.
+
+**Highlights**
+
+* Validation
+* Persistence
+* Undo / Redo
+* Collections
+* Transactions
+* Middleware
+* Reactive Queries
+* Form Helpers
 
 ---
 
-## Skills  
+## deprecated-tracker
 
-### Front-End Development  
-- **Angular (Core Expertise)**  
-- TypeScript | HTML5 | CSS3 | SCSS  
-- State Management (NgRx, RxJS, Signal)  
-- Responsive Design & Accessibility Standards  
-
-### Back-End Development  
-- Node.js | Express.js  
-- Database Management: SQL (PostgreSQL, MySQL) | NoSQL (MongoDB)  
-
-### DevOps & Tools  
-- Git | GitHub Actions  
-- Docker | Kubernetes  
-- Azure DevOps | Microsoft Azure  
-- CI/CD Pipelines  
-
-### Soft Skills  
-- Strong communicator and team player.  
-- Quick learner with a passion for innovation.  
-- Detail-oriented with a focus on quality and efficiency.  
+A Visual Studio Code extension for detecting and managing deprecated APIs and dependencies, helping developers maintain healthier and more maintainable codebases.
 
 ---
 
-## How to Reach Me  
-- **LinkedIn:** [Milad Jokar](https://www.linkedin.com/in/milad-jokar-647839212/)  
-- **X:** [Milad445](https://x.com/Milad445)
+# Areas of Focus
+
+* Enterprise Angular Applications
+* Workflow-Driven Systems
+* Frontend Architecture
+* Reusable UI Components
+* Angular Signals
+* State Management
+* Performance Optimisation
+* Developer Experience (DX)
+* Developer Tooling
+* AI-Assisted Software Engineering
+* Agentic Development Workflows
 
 ---
 
-## GitHub Stats  
-![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=milad-hub&show_icons=true&theme=radical)
+# AI Engineering
+
+AI is an integral part of my daily engineering workflow.
+
+I use modern AI tools to accelerate software development while maintaining high standards of code quality, maintainability, and software design.
+
+Typical use cases include:
+
+* Agentic coding workflows
+* AI-assisted software design
+* Architecture exploration
+* Prompt engineering
+* Documentation generation
+* Test generation
+* Code review assistance
+* Refactoring support
+* Technical research
+* Open-source development
+
+---
+
+# Engineering Toolkit
+
+### Frontend
+
+Angular • TypeScript • RxJS • Angular Signals
+
+### Backend
+
+Node.js • Express.js • REST APIs
+
+### Cloud
+
+Microsoft Azure • Azure DevOps • Docker • GitHub Actions
+
+### AI
+
+ChatGPT • OpenAI Codex • Claude • Agentic Coding
+
+---
+
+# Currently Exploring
+
+* Enterprise Application Architecture
+* Domain-Driven Design (DDD)
+* Workflow & Business Process Automation
+* AI-native Software Engineering
+
+---
+
+# Connect
+
+* LinkedIn: https://www.linkedin.com/in/milad-jokar-647839212/
