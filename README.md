@@ -1,12 +1,12 @@
 # Hi, I'm Milad Jokar
 
-**Enterprise-focused Angular Developer building scalable applications, developer tools, and AI-assisted engineering workflows.**
+I am an Angular Developer specialising in enterprise applications, workflow-driven systems, and developer tooling.
 
-I build maintainable, scalable, and high-performance Angular applications for complex business environments.
+I design and build maintainable frontend applications that simplify complex business processes while remaining scalable, reliable, and easy to evolve over time.
 
-My interests span enterprise frontend architecture, workflow-driven systems, reusable component design, developer productivity, and modern AI-assisted software engineering.
+Beyond day-to-day development, I enjoy creating open-source tools, reusable libraries, and technical resources that help developers build better software and improve engineering productivity.
 
-I enjoy building open-source tools that solve real engineering problems and improve the developer experience.
+My interests include enterprise frontend architecture, software design, workflow systems, developer experience, and modern AI-assisted engineering practices.
 
 ---
 
