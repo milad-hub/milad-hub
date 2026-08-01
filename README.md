@@ -12,7 +12,7 @@ My interests include enterprise frontend architecture, software design, workflow
 
 # Featured Projects
 
-## ngx-signal-plus
+### [ngx-signal-plus](https://github.com/milad-hub/ngx-signal-plus)
 
 A lightweight Angular library that extends native Angular Signals with practical utilities for real-world applications.
 
@@ -29,7 +29,19 @@ A lightweight Angular library that extends native Angular Signals with practical
 
 ---
 
-## deprecated-tracker
+### [orchestrate-agents](https://github.com/milad-hub/orchestrate-agents)
+
+Multi-agent orchestration for Claude Code and Codex CLI. A manager plans the work and delegates to researcher, worker and validator roles, then an independent judge reviews the result before it is returned.
+
+One specification, two generators — installs into either CLI.
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/milad-hub/orchestrate-agents/main/bootstrap.sh | bash
+```
+
+---
+
+### [deprecated-tracker](https://github.com/milad-hub/deprecated-tracker)
 
 A Visual Studio Code extension for detecting and managing deprecated APIs and dependencies, helping developers maintain healthier and more maintainable codebases.
 
