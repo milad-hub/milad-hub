@@ -8,8 +8,6 @@ Beyond day-to-day development, I enjoy creating open-source tools, reusable libr
 
 My interests include enterprise frontend architecture, software design, workflow systems, developer experience, and modern AI-assisted engineering practices.
 
----
-
 # Featured Projects
 
 ### [ngx-signal-plus](https://github.com/milad-hub/ngx-signal-plus)
@@ -18,14 +16,14 @@ A lightweight Angular library that extends native Angular Signals with practical
 
 **Highlights**
 
-* Validation
-* Persistence
-* Undo / Redo
-* Collections
-* Transactions
-* Middleware
-* Reactive Queries
-* Form Helpers
+- Validation
+- Persistence
+- Undo / Redo
+- Collections
+- Transactions
+- Middleware
+- Reactive Queries
+- Form Helpers
 
 ---
 
@@ -45,8 +43,6 @@ curl -fsSL https://raw.githubusercontent.com/milad-hub/orchestrate-agents/main/b
 
 A Visual Studio Code extension for detecting and managing deprecated APIs and dependencies, helping developers maintain healthier and more maintainable codebases.
 
----
-
 # Areas of Focus
 
 - Enterprise Angular Applications
@@ -56,8 +52,6 @@ A Visual Studio Code extension for detecting and managing deprecated APIs and de
 - Developer Tooling & Developer Experience (DX)
 - AI-Assisted Software Engineering
 - Open Source
-
----
 
 # AI Engineering
 
@@ -75,8 +69,6 @@ Typical use cases include:
 - Documentation generation
 - Technical research
 - Code review support
-
----
 
 # Engineering Toolkit
 
@@ -96,17 +88,13 @@ Microsoft Azure • Azure DevOps • Docker • GitHub Actions
 
 ChatGPT • OpenAI Codex • Claude • Agentic Coding
 
----
-
 # Currently Exploring
 
-* Enterprise Application Architecture
-* Domain-Driven Design (DDD)
-* Workflow & Business Process Automation
-* AI-native Software Engineering
-
----
+- Enterprise Application Architecture
+- Domain-Driven Design (DDD)
+- Workflow & Business Process Automation
+- AI-native Software Engineering
 
 # Connect
 
-* LinkedIn: https://www.linkedin.com/in/milad-jokar-647839212/
+- LinkedIn: https://www.linkedin.com/in/milad-jokar-647839212/
